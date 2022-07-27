@@ -1,0 +1,17 @@
+
+.banner{
+    background-color: #FCEAE8;
+}
+.btn{
+    background-image: linear-gradient(#FF4690,#FF267B);
+    color: white;
+    
+}
+/* .btn:hover{
+    background-color:white;
+    color: #FF267B;
+    border: none;
+} */
+.subscribe{
+    background-color:#FCEAE8;
+}
